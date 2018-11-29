@@ -1,3 +1,4 @@
+#Ali Najimi
 ------------------------------------
 drop database University_db;
 drop table University_db.person;
